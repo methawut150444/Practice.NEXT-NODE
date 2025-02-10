@@ -1,0 +1,11 @@
+github: อาจารกบ
+    - https://github.com/thekaroe-thailand/next2dayr2
+    - https://github.com/thekaroe-thailand/next2dayr2-api
+
+
+HandOn Slide:
+    - https://shorturl.at/nPJ3K         // JS Basic
+    - https://shorturl.at/eNhI3         // NEXT Framework
+    - https://shorturl.at/ZfnFB         // NodeJS & Prisma
+    - https://shorturl.at/Qq33A         // Deploy to Linux
+    - https://shorturl.at/KZTpI         // Workshop POS ร้านอาหาร
